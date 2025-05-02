@@ -256,13 +256,13 @@ setTimeout(function() {
 
     
     var novoTexto = document.createElement("p");
-    novoTexto.innerText = "Entre no nosso grupo de horários pagantes 🤑";
+    novoTexto.innerText = "SUPORTE ABAIXO";
     novoTexto.className = "novo-texto"; 
     rodape.appendChild(novoTexto);
 
     
     var novoBotao = document.createElement("button");
-    novoBotao.innerText = "Entrar no grupo";
+    novoBotao.innerText = "SUPORTE";
     novoBotao.id = "btnNovo"; 
     rodape.appendChild(novoBotao);
 
